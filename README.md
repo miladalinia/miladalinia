@@ -1,6 +1,6 @@
 # 💫About Me :
-Web Developer
-Programmer
+Web Developer,
+Programmer,
 Information Technology
 
 ## 🌐Socials
