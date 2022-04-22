@@ -1,4 +1,4 @@
-# 💫About Me :
+💫
 Web Developer,
 Programmer,
 Information Technology Engineer
